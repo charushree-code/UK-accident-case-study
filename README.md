@@ -156,8 +156,8 @@ To fully experience the power of Tableau, users can click on the provided link t
 ## ACT
 ### Insights from the Analysis:
 **1. Most Common Types of Vehicles Involved in Accidents:**
--Query shows that cars are the most common vehicles involved in accidents, highlighting the need for targeted safety campaigns for car drivers. Vans and goods vehicles under 3.5 tonnes, as well as buses or coaches, also have high accident rates, necessitating better safety training and maintenance protocols for commercial drivers.
--Motorcycles, despite being less common on the roads, have a significant number of accidents, pointing to their vulnerability and the need for enhanced safety measures, such as promoting protective gear and increasing awareness among all road users.
+- Query shows that cars are the most common vehicles involved in accidents, highlighting the need for targeted safety campaigns for car drivers. Vans and goods vehicles under 3.5 tonnes, as well as buses or coaches, also have high accident rates, necessitating better safety training and maintenance protocols for commercial drivers.
+- Motorcycles, despite being less common on the roads, have a significant number of accidents, pointing to their vulnerability and the need for enhanced safety measures, such as promoting protective gear and increasing awareness among all road users.
 
 
 **2. Most Frequent Weather Conditions Associated with Accidents:**
