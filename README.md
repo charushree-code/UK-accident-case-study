@@ -161,48 +161,48 @@ To fully experience the power of Tableau, users can click on the provided link t
 
 
 **2. Most Frequent Weather Conditions Associated with Accidents:**
--The data shows that the vast majority of accidents occur in fine weather conditions without high winds, with over half a million incidents recorded. This suggests that while adverse weather conditions can contribute to accidents, many accidents happen in seemingly safe weather, likely due to factors such as driver complacency or higher traffic volumes.
--Rainy conditions without high winds are the second most common, indicating that wet roads pose a significant risk even without strong winds. This is followed by a miscellaneous category ("Other"), which could include various less common weather conditions.
--Accidents during high winds, whether combined with rain or fine conditions, and snowing without high winds, though less frequent, still account for a considerable number of incidents. Fog or mist and snowing with high winds are the least frequent conditions but still present substantial risks due to reduced visibility and slippery surfaces
+- The data shows that the vast majority of accidents occur in fine weather conditions without high winds, with over half a million incidents recorded. This suggests that while adverse weather conditions can contribute to accidents, many accidents happen in seemingly safe weather, likely due to factors such as driver complacency or higher traffic volumes.
+- Rainy conditions without high winds are the second most common, indicating that wet roads pose a significant risk even without strong winds. This is followed by a miscellaneous category ("Other"), which could include various less common weather conditions.
+- Accidents during high winds, whether combined with rain or fine conditions, and snowing without high winds, though less frequent, still account for a considerable number of incidents. Fog or mist and snowing with high winds are the least frequent conditions but still present substantial risks due to reduced visibility and slippery surfaces
 
 
 **3. Number of Casualties Vary Across Different Types of Accidents:**
--**Fatal Accidents**: Fatal accidents have the highest average number of casualties (1.90), with a minimum of 1 casualty and a maximum of 68. This indicates that fatal accidents often involve multiple casualties, highlighting the severe impact these incidents have on human life.
--**Serious Accidents**: Serious accidents have an average of 1.47 casualties, with casualties ranging from 1 to 45. This shows that while serious accidents are less catastrophic than fatal ones, they still often result in multiple casualties, underscoring the need for effective emergency response and medical care.
--**Slight Accidents**: Slight accidents have the lowest average number of casualties (1.33), with a range from 1 to 47. Although these accidents are less severe, they still result in multiple casualties in some cases, emphasizing the importance of preventive measures even for minor accidents.
+- **Fatal Accidents**: Fatal accidents have the highest average number of casualties (1.90), with a minimum of 1 casualty and a maximum of 68. This indicates that fatal accidents often involve multiple casualties, highlighting the severe impact these incidents have on human life.
+- **Serious Accidents**: Serious accidents have an average of 1.47 casualties, with casualties ranging from 1 to 45. This shows that while serious accidents are less catastrophic than fatal ones, they still often result in multiple casualties, underscoring the need for effective emergency response and medical care.
+- **Slight Accidents**: Slight accidents have the lowest average number of casualties (1.33), with a range from 1 to 47. Although these accidents are less severe, they still result in multiple casualties in some cases, emphasizing the importance of preventive measures even for minor accidents.
 
 
 **4. Geographic Areas with the Highest Occurrence of Accidents:**
--The data indicates that urban areas, particularly major cities, have the highest occurrence of road accidents. Birmingham tops the list with 12,980 accidents, followed by Leeds with 8,785, Manchester with 6,217, Bradford with 6,155, and Westminster with 5,660. These areas are characterized by high population density, heavy traffic, and complex road networks, which contribute to the higher number of accidents.
--In contrast, rural and less populated areas such as Clackmannshire, Teesdale, Shetland Islands, Orkney Islands, and Clackmannanshire report significantly fewer accidents, with Clackmannanshire having the lowest count at 86 incidents. This disparity highlights the influence of traffic volume and urban infrastructure on accident rates.
+- The data indicates that urban areas, particularly major cities, have the highest occurrence of road accidents. Birmingham tops the list with 12,980 accidents, followed by Leeds with 8,785, Manchester with 6,217, Bradford with 6,155, and Westminster with 5,660. These areas are characterized by high population density, heavy traffic, and complex road networks, which contribute to the higher number of accidents.
+- In contrast, rural and less populated areas such as Clackmannshire, Teesdale, Shetland Islands, Orkney Islands, and Clackmannanshire report significantly fewer accidents, with Clackmannanshire having the lowest count at 86 incidents. This disparity highlights the influence of traffic volume and urban infrastructure on accident rates.
 
 
 **5. Impact of Time of Day on the Frequency and Severity of Accidents:**
 Accidents occurring at midnight (Hour 0) have been recorded 642,796 times in the dataset. On average, these accidents involve approximately 1.36 casualties per accident.
 Conclusions:
--**Frequency of Accidents**: Accidents at midnight (Hour 0) are quite frequent, based on the high count of 642,796 incidents. This indicates that midnight might be a period with increased traffic activity or other contributing factors leading to accidents.
--**Severity of Accidents**: The average number of casualties per accident (1.36) suggests that while accidents are frequent at this hour, they tend to result in relatively fewer casualties on average compared to other times of the day.
--**Possible Explanations**: Accidents at midnight could be influenced by factors such as reduced visibility (especially if light conditions are poor), fatigue among drivers, and potentially higher incidents of impaired driving. However, without additional data on specific circumstances (such as exact causes like drunk driving, speeding, etc.), these are speculative interpretations.
+- **Frequency of Accidents**: Accidents at midnight (Hour 0) are quite frequent, based on the high count of 642,796 incidents. This indicates that midnight might be a period with increased traffic activity or other contributing factors leading to accidents.
+- **Severity of Accidents**: The average number of casualties per accident (1.36) suggests that while accidents are frequent at this hour, they tend to result in relatively fewer casualties on average compared to other times of the day.
+- **Possible Explanations**: Accidents at midnight could be influenced by factors such as reduced visibility (especially if light conditions are poor), fatigue among drivers, and potentially higher incidents of impaired driving. However, without additional data on specific circumstances (such as exact causes like drunk driving, speeding, etc.), these are speculative interpretations.
 **6. Distribution of Accidents Across Different Days of the Week:**
--**Weekend vs. Weekday Comparison**: There is a noticeable increase in the number of accidents on Saturdays (104,272) compared to Sundays (86,931), indicating that Saturdays have the highest incidence of accidents among the weekend days.
--**Midweek Peaks**: Wednesdays and Thursdays (both around 96,000 accidents) show slightly higher counts compared to Mondays and Fridays, which suggests that midweek days might experience relatively higher accident rates.
--**Lowest Day**: Mondays (70,782) have the lowest count of accidents among the weekdays, potentially indicating a slight decrease in accidents at the start of the workweek.
--**Overall Trend**: The distribution generally follows a pattern where weekends (Saturday and Sunday) see higher accident counts compared to weekdays, with Saturday recording the highest number.
+- **Weekend vs. Weekday Comparison**: There is a noticeable increase in the number of accidents on Saturdays (104,272) compared to Sundays (86,931), indicating that Saturdays have the highest incidence of accidents among the weekend days.
+- **Midweek Peaks**: Wednesdays and Thursdays (both around 96,000 accidents) show slightly higher counts compared to Mondays and Fridays, which suggests that midweek days might experience relatively higher accident rates.
+- **Lowest Day**: Mondays (70,782) have the lowest count of accidents among the weekdays, potentially indicating a slight decrease in accidents at the start of the workweek.
+- **Overall Trend**: The distribution generally follows a pattern where weekends (Saturday and Sunday) see higher accident counts compared to weekdays, with Saturday recording the highest number.
 
 
 **7. Light Conditions Associated with Severe Accidents:**
--Darkness with no lighting has the highest percentage (19.19%) of serious accidents among all light conditions, indicating a significant association between accidents occurring in conditions where there is no artificial lighting.
--Daylight has a relatively lower percentage (12.64%) of serious accidents compared to darkness conditions.
+- Darkness with no lighting has the highest percentage (19.19%) of serious accidents among all light conditions, indicating a significant association between accidents occurring in conditions where there is no artificial lighting.
+- Daylight has a relatively lower percentage (12.64%) of serious accidents compared to darkness conditions.
 Therefore, accidents occurring in darkness with no lighting are most strongly associated with severe accidents, suggesting that low visibility conditions significantly increase the risk of serious incidents on the road.
 
 
 **8. Correlation Between the Number of Vehicles Involved and the Severity of Accidents:**
--Correlation: The data suggests a moderate correlation between the number of vehicles involved and the severity of accidents. Generally, as the number of vehicles increases, the serious accident rate tends to increase as well. This trend underscores the potential for increased risk and severity when multiple vehicles are involved in accidents.
--Exceptions: The presence of 0% serious accident rates for certain numbers of vehicles (like 11, 14, 15, 28, 32) suggests that there are factors beyond just the number of vehicles that influence accident severity. These could include specific types of collisions, road conditions, or other contextual factors not captured in this dataset.
+- Correlation: The data suggests a moderate correlation between the number of vehicles involved and the severity of accidents. Generally, as the number of vehicles increases, the serious accident rate tends to increase as well. This trend underscores the potential for increased risk and severity when multiple vehicles are involved in accidents.
+- Exceptions: The presence of 0% serious accident rates for certain numbers of vehicles (like 11, 14, 15, 28, 32) suggests that there are factors beyond just the number of vehicles that influence accident severity. These could include specific types of collisions, road conditions, or other contextual factors not captured in this dataset.
 
 **9. Occurrence of Accidents in Urban vs Rural Areas:**
--Urban vs. Rural: The majority of accidents (about 63.59%) occur in urban areas, compared to about 36.39% in rural areas.
--Unallocated Data: The presence of only 3 unallocated cases doesn't significantly affect the overall percentages but highlights the completeness of the data.
+- Urban vs. Rural: The majority of accidents (about 63.59%) occur in urban areas, compared to about 36.39% in rural areas.
+- Unallocated Data: The presence of only 3 unallocated cases doesn't significantly affect the overall percentages but highlights the completeness of the data.
 
 
 ## References
